@@ -5,7 +5,7 @@ A 3D-printable seed metering unit (planter box) driven directly by a **NEMA 17**
 
 <img width="666" height="574" alt="Assembled metering unit with SORGO-0 plate" src="https://github.com/user-attachments/assets/c87f3eb6-a007-49f3-b50d-76e5d03d978d" />
 
-The plate, housing and lid are printable on any 200×200 bed. The plate mounts straight onto the motor shaft, so the seed rate is set entirely in software — no chains, no sprockets, no ground-drive wheel. Swapping crops means swapping a plate.
+The plate, housing and lid are printable on any 256×256 bambu bed. The plate mounts straight onto the motor shaft, so the seed rate is set entirely in software — no chains, no sprockets, no ground-drive wheel. Swapping crops means swapping a plate.
 
 <img width="653" height="533" alt="Housing and internals" src="https://github.com/user-attachments/assets/c267a579-cbdd-48a2-90ae-fe2345f315ee" />
 
